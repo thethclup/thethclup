@@ -5,7 +5,7 @@
 **Web3 builder** focused on **Base**, on-chain AI agents, and experimental games.
 
 [![GitHub followers](https://img.shields.io/github/followers/thethclup?style=social)](https://github.com/thethclup)
-[![X](https://img.shields.io/badge/X-@thethclup-black?logo=x)](https://x.com/thethclup)
+[![X](https://img.shields.io/badge/X-@thethclupp-black?logo=x)](https://x.com/thethclupp)
 [![Farcaster](https://img.shields.io/badge/Farcaster-thethclup-purple)](https://farcaster.xyz/thethclup)
 
 </div>
@@ -46,7 +46,7 @@
 
 **Let's connect**
 
-[GitHub](https://github.com/thethclup) · [X / Twitter](https://x.com/thethclup) · [Farcaster](https://farcaster.xyz/thethclup)
+[GitHub](https://github.com/thethclup) · [X / Twitter](https://x.com/thethclupp) · [Farcaster](https://farcaster.xyz/thethclup)
 
 *Building in public on Base & GenLayer*
 
